@@ -1,0 +1,13 @@
+var:
+  last_build_time: 1763959949
+  option:
+    full_shape: false
+    simplification: true
+  previously_selected_schema: tigress
+  schema_access_time:
+    PY_c: 1757606210
+    core2022: 1757606243
+    double_pinyin_flypy: 1764058465
+    luna_pinyin: 1764063919
+    tiger: 1757605666
+    tigress: 1764407125

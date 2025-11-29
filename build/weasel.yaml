@@ -1,0 +1,144 @@
+__build_info:
+  rime_version: 1.13.1
+  timestamps:
+    weasel: 1757918217
+    weasel.custom: 1757996926
+    weasel.style: 1757920024
+    weasel.style.custom: 0
+app_options:
+  Code.exe:
+    ascii_mode: true
+  StardewModdingAPI.exe:
+    ascii_mode: true
+  WindowsTerminal.exe:
+    ascii_mode: true
+  bash.exe:
+    ascii_mode: true
+  cmd.exe:
+    ascii_mode: true
+  cmder.exe:
+    ascii_mode: true
+  conemu64.exe:
+    ascii_mode: true
+  conhost.exe:
+    ascii_mode: true
+  firefox.exe:
+    inline_preedit: true
+  gvim.exe:
+    ascii_mode: true
+  powershell.exe:
+    ascii_mode: true
+  qbittorrent.exe:
+    ascii_mode: true
+config_version: 0.22
+global_ascii: false
+preset_color_schemes:
+  azill0:
+    author: Lambocrisis
+    back_color: 0xF9F9F9
+    candidate_text_color: 0x444444
+    comment_text_color: 0x888888
+    hilited_candidate_back_color: 0xF2F8F2
+    hilited_candidate_text_color: 0x444444
+    hilited_mark_color: 0x447935
+    label_color: 0x888888
+    name: "白竹林 / Zhulin"
+    shadow_color: 0x44AAAAAA
+    text_color: 0x444444
+  azill1:
+    author: Lambocrisis
+    back_color: 0xF9F9F9
+    candidate_text_color: 0x444444
+    comment_text_color: 0x888888
+    hilited_candidate_back_color: 0xF8E8E8
+    hilited_candidate_text_color: 0x444444
+    hilited_mark_color: 0xEE6E00
+    label_color: 0x888888
+    name: "蓝博闻 / Bowen"
+    shadow_color: 0x44AAAAAA
+    text_color: 0x444444
+  azill2:
+    author: Lambocrisis
+    back_color: 0xF9F9F9
+    candidate_text_color: 0x444444
+    comment_text_color: 0x888888
+    hilited_candidate_back_color: 0xE8E8F8
+    hilited_candidate_text_color: 0x444444
+    hilited_mark_color: 0x2621A7
+    label_color: 0x888888
+    name: "水华朱 / Shuihuazhu"
+    shadow_color: 0x44AAAAAA
+    text_color: 0x444444
+  azill3:
+    author: Lambocrisis
+    back_color: 0x5691FF
+    candidate_text_color: 0x000000
+    comment_text_color: 0x1B4096
+    hilited_candidate_back_color: 0x3756C0
+    hilited_candidate_text_color: 0xF0F0F0
+    hilited_mark_color: 0x00FFFFFF
+    label_color: 0x1B4096
+    name: "证景十 / Mikansei"
+    shadow_color: 0x44AAAAAA
+    text_color: 0x000000
+  azill4:
+    author: Lambocrisis
+    back_color: 0x00F9F9F9
+    candidate_text_color: 0x00444444
+    comment_text_color: 0x00888888
+    hilited_candidate_back_color: 0x00E8E8F8
+    hilited_candidate_text_color: 0x00444444
+    hilited_mark_color: 0x002621A7
+    label_color: 0x00888888
+    name: "硝子宫 / Garasu"
+    shadow_color: 0x00AAAAAA
+    text_color: 0x00444444
+show_notifications: false
+show_notifications_time: 1200
+style:
+  antialias_mode: default
+  ascii_tip_follow_cursor: false
+  candidate_abbreviate_length: 0
+  click_to_capture: false
+  color_scheme: azill0
+  comment_font_face: "MiSans VF, MiSans L3, Segoe UI Emoji, 思源黑体 CN"
+  comment_font_point: 12
+  display_tray_icon: false
+  font_face: "MiSans VF, MiSans L3, Segoe UI Emoji, 思源黑体 CN"
+  font_point: 12
+  fullscreen: false
+  horizontal: true
+  hover_type: none
+  inline_preedit: true
+  label_font_face: "MiSans VF, MiSans L3, Segoe UI Emoji, 思源黑体 CN"
+  label_font_point: 10
+  label_format: "%s"
+  layout:
+    align_type: center
+    baseline: 0
+    border_width: 0
+    candidate_spacing: 4
+    corner_radius: 0
+    hilite_padding: 2
+    hilite_padding_x: 8
+    hilite_padding_y: 4
+    hilite_spacing: 4
+    linespacing: 0
+    margin_x: 4
+    margin_y: 4
+    max_height: 0
+    max_width: 0
+    min_height: 16
+    min_width: 0
+    round_corner: 4
+    shadow_offset_x: 0
+    shadow_offset_y: 0
+    shadow_radius: 4
+    spacing: 10
+  mark_text: ""
+  paging_on_scroll: false
+  preedit_type: composition
+  vertical_auto_reverse: false
+  vertical_text: false
+  vertical_text_left_to_right: false
+  vertical_text_with_wrap: false

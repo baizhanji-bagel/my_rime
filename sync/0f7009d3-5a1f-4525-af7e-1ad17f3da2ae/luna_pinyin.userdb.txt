@@ -1,0 +1,22 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.14.0
+#@/tick	15
+#@/user_id	0f7009d3-5a1f-4525-af7e-1ad17f3da2ae
+de 	的	c=1 d=0.960789 t=15
+guo 	過	c=1 d=0.951229 t=15
+jin shi 	近視	c=1 d=0.99005 t=15
+jin xing 	進行	c=1 d=1 t=15
+jing 	經	c=1 d=0.946485 t=15
+qi dian 	起點	c=0 d=0.099005 t=15
+qi dian xiao shuo 	起點小說	c=1 d=0.995012 t=15
+qing yi se 	清一色	c=1 d=0.965605 t=15
+ran shou 	染手	c=1 d=0.970446 t=15
+suan le 	算了	c=1 d=0.97531 t=15
+wo 	我	c=2 d=1.97025 t=15
+wo xi huan ni 	我喜歡你	c=1 d=1 t=15
+xi huan ni 	喜歡你	c=1 d=0.995012 t=15
+xiao shuo 	小說	c=0 d=0.099005 t=15
+zao shang 	早上	c=1 d=0.955997 t=15
+zhi xiang shuo 	只想說	c=1 d=0.985112 t=15
